@@ -1,0 +1,11 @@
+id,name,age,city,salary,join_date
+1,John Doe,28,New York,55000.50,2022-03-15
+2,Jane Smith,35,San Francisco,75000.00,2021-07-22
+3,Mike Johnson,42,Chicago,68000.75,2020-11-10
+4,Emily Davis,29,Seattle,62000.25,2022-01-05
+5,David Wilson,51,Boston,85000.00,2019-04-18
+6,Sarah Brown,33,Austin,71000.50,2021-06-12
+7,Tom Martinez,45,Denver,78000.00,2020-09-08
+8,Lisa Garcia,27,Portland,58000.75,2022-05-20
+9,James Rodriguez,38,Miami,69000.25,2021-02-14
+10,Maria Lopez,48,Dallas,82000.00,2019-12-03
